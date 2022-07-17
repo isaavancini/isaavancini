@@ -3,18 +3,18 @@
 <br>
 
 I am...
-► A passionate self-taught developer
-► 21 yo
-► Brazilian
-► Mostly interested in self development, music and kitties >.<
-► Got a silly sense of humor...
+- A passionate self-taught developer
+- 21 yo
+- Brazilian
+- Mostly interested in self development, music and kitties >.<
+- Got a silly sense of humor...
 
-<figure align="center">
+<div align="center">
   <img src="https://ahseeit.com//king-include/uploads/2021/01/103859274_174032017437423_4114046390534467243_n-8168050981.jpg" width="350">
-  <figcaption>xD!!!</figcaption>
-</figure>
+  xD!!!
+</div>
 
-<br>
+---
 
 ### Technologies and Tools:
 
